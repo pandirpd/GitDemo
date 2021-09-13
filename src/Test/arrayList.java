@@ -13,6 +13,7 @@ public class arrayList {
 		System.out.println(a);	
 		boolean aa=a.contains("Love");
 		System.out.println(aa);
+		System.out.println("miss you babe");
 	}
 
 }
