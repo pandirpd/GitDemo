@@ -14,6 +14,7 @@ public class arrayList {
 		boolean aa=a.contains("Love");
 		System.out.println(aa);
 		System.out.println("miss you babe");
+		System.out.println("babe waiting for your call");
 	}
 
 }
